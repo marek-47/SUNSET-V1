@@ -1,4 +1,4 @@
-# SUNSET-V1
+## SUNSET-V1
 
 ![SUNSET V1 hero graphic showing both sides of the PCB](docs/sunset-hero.png)
 
