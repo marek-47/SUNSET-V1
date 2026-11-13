@@ -31,7 +31,7 @@ The graphic shows the board from the component side with USB-C at the bottom. J1
 
 <img src="docs/pcb-front.png" width="48%" alt="Front render with the ESP32-C3 module, buttons, and USB-C connector"> <img src="docs/pcb-back.png" width="48%" alt="Back render with synthwave artwork and header labels">
 
-The front and back renders show the assembled board from both sides.
+[Download the transparent front render](docs/pcb-front.png) · [Download the transparent back render](docs/pcb-back.png)
 
 ## EasyEDA Pro project
 
