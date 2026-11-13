@@ -2,8 +2,7 @@
 
 ![SUNSET V1 hero graphic showing both sides of the PCB](docs/sunset-hero.png)
 
-**SUNSET-C3 Mini Dev Board** is a compact ESP32-C3 development board with USB-C, two rows of through-hole headers, and synthwave artwork on the back.
-
+**SUNSET-C3 Mini Dev Board** is a compact ESP32-C3 development board with USB-C
 ## Specifications
 
 | Feature | Design |
@@ -22,7 +21,7 @@
 
 ## Header pinout
 
-The graphic shows the board from the component side with USB-C at the bottom. J1 is on the left and J2 is on the right.
+
 
 ![Header pinout with J1 and J2 pin numbers and net names](docs/header-pinout.png)
 
