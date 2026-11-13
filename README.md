@@ -19,7 +19,6 @@
 
 [Espressif module datasheet](https://documentation.espressif.com/esp32-c3-mini-1_datasheet_en.html)
 
-![SUNSET V1 board specifications](docs/board-specs.png)
 
 ## Header pinout
 
@@ -27,11 +26,7 @@ The graphic shows the board from the component side with USB-C at the bottom. J1
 
 ![Header pinout with J1 and J2 pin numbers and net names](docs/header-pinout.png)
 
-## PCB views
 
-<img src="docs/pcb-front.png" width="48%" alt="Front render with the ESP32-C3 module, buttons, and USB-C connector"> <img src="docs/pcb-back.png" width="48%" alt="Back render with synthwave artwork and header labels">
-
-[Download the transparent front render](docs/pcb-front.png) · [Download the transparent back render](docs/pcb-back.png)
 
 ## EasyEDA Pro project
 
