@@ -3,11 +3,11 @@
 <p align="center"><strong>SUNSET-C3 Mini Dev Board</strong> is a compact ESP32-C3 development board with USB-C.</p>
 
 <p align="center">
-  <img src="docs/sunset-hero.png" width="560" alt="Front and back of the SUNSET-V1 PCB">
+  <img src="docs/sunset-hero.png" width="520" alt="Front and back of the SUNSET-V1 PCB">
 </p>
 
 <p align="center">
-  Layout renders · <a href="docs/pcb-front.png">Front</a> · <a href="docs/pcb-back.png">Back</a>
+  <a href="docs/pcb-front.png">Front</a> · <a href="docs/pcb-back.png">Back</a>
 </p>
 
 
