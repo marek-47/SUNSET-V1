@@ -3,11 +3,11 @@
 <p align="center"><strong>SUNSET-C3 Mini Dev Board</strong> is a compact ESP32-C3 development board with USB-C.</p>
 
 <p align="center">
-  <img src="docs/sunset-hero.png" width="520" alt="Front and back of the SUNSET-V1 PCB">
+  <img src="docs/sunset-v1-easyeda-views.png" width="520" alt="Front and back of the SUNSET-V1 PCB">
 </p>
 
 <p align="center">
-  <a href="docs/pcb-front.png">Front</a> · <a href="docs/pcb-back.png">Back</a>
+  <a href="docs/sunset-v1-easyeda-front.png">Front</a> · <a href="docs/sunset-v1-easyeda-back.png">Back</a>
 </p>
 
 
@@ -36,7 +36,7 @@
 <h3 align="center">Header pinout</h3>
 
 <p align="center">
-  <img src="docs/header-pinout.png" width="760" alt="J1 and J2 pinout viewed from the component side with USB-C at the bottom">
+  <img src="docs/sunset-v1-easyeda-pinout.png" width="760" alt="J1 and J2 pinout viewed from the component side with USB-C at the bottom">
 </p>
 
 <h3 align="center">License</h3>
