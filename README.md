@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+  Layout renders · <a href="docs/pcb-front.png">Front</a> · <a href="docs/pcb-back.png">Back</a>
+</p>
+
+
+<p align="center">
   <a href="hardware/SUNSET-C3-EasyEDA-Pro.zip">Download the EasyEDA Pro project</a> ·
   <a href="https://prodocs.easyeda.com/en/project/file-save-as-local/index.html">Import guide</a>
 </p>
